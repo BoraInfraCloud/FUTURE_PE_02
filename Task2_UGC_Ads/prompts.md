@@ -89,7 +89,7 @@ CONVERSION GOAL: Drive purchase via Instagram/YouTube link in bio
 > **Purpose:** Generates 10 scroll-stopping hooks for the product. Hooks are the most critical part of any UGC ad.
 
 ```
-ROLE + CONTEXT: [System Prompt + Product Brief loaded above]
+ROLE + CONTEXT: [System Prompt + Product Brief loaded above].
 
 TASK — Generate 10 scroll-stopping hooks for GlowUp Vitamin C Serum.
 
