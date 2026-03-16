@@ -20,7 +20,7 @@ The task involved designing a **production-grade, 5-prompt UGC ad engineering sy
 **Platforms:** Instagram Reels | YouTube Shorts | Facebook Feed
 **Tone:** Authentic & relatable — real person talking, not a brand ad
 
----
+--
 
 ## 🚀 What Was Built
 
